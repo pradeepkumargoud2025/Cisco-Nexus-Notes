@@ -6,7 +6,4 @@ This configuration allows the port to immediately enter the forwarding state wit
 
 ⚠️ Note: This command should only be applied to ports connected to hosts. It must not be used on ports connecting to other switches, as doing so could lead to network loops.
 
-interface ethernet1/1
-  switchport
-  switchport mode access
-  spanning-tree port type edge
+"spanning-tree port type edge"
