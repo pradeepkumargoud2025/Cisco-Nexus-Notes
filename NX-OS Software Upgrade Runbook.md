@@ -4,8 +4,8 @@
 - Confirm device is powered on and accessible.
 - Set admin password:
   ```bash
-  Enter password for admin: c!sc0123
-  Confirm password: c!sc0123
+  Enter password for admin:
+  Confirm password:
 
 Skip basic configuration dialog:
 
